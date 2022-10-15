@@ -11,3 +11,4 @@ A Telegram Bot that compress's video in h265 codec
 - `TOKEN` Your bot token from @BotFather
 
 ---
+https://www.heroku.com/deploy?template=https://github.com/Skystapper/ancon
